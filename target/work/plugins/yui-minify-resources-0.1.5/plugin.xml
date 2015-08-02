@@ -1,0 +1,25 @@
+<plugin name='yui-minify-resources' version='0.1.5' grailsVersion='1.2 &gt; *'>
+  <author>Carsten Block</author>
+  <authorEmail>info@block-consult.com</authorEmail>
+  <title>YUI Minify Resources</title>
+  <description>Minifies static css and js resources using the YUI Compressor library</description>
+  <documentation>http://grails.org/plugin/yui-minify-resources</documentation>
+  <type>YuiMinifyResourcesGrailsPlugin</type>
+  <resources>
+    <resource>com.blockconsult.yuiminifyresources.YuiCssMinifyResourceMapper</resource>
+    <resource>com.blockconsult.yuiminifyresources.YuiJsMinifyResourceMapper</resource>
+  </resources>
+  <repositories>
+    <repository name='grailsCentral' url='http://plugins.grails.org' />
+    <repository name='http://repo.grails.org/grails/plugins' url='http://repo.grails.org/grails/plugins/' />
+    <repository name='http://repo.grails.org/grails/core' url='http://repo.grails.org/grails/core/' />
+    <repository name='grailsCore' url='http://svn.codehaus.org/grails/trunk/grails-plugins' />
+    <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
+  </repositories>
+  <dependencies />
+  <plugins />
+  <runtimePluginRequirements>
+    <plugin name='resources' version='1.0 &gt; *' />
+  </runtimePluginRequirements>
+  <behavior />
+</plugin>

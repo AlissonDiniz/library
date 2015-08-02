@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05/05/2015, 13:31:23
+    Author     : Alisson Diniz
+*/
+
+.collection-table thead tr th:nth-of-type(1),
+.collection-table tbody tr td:nth-of-type(1){
+    width: 100px;
+}
+.collection-table thead tr th:nth-of-type(2),
+.collection-table tbody tr td:nth-of-type(2){
+    width: 230px;
+}
+.collection-table thead tr th:nth-of-type(3),
+.collection-table tbody tr td:nth-of-type(3){
+    width: 200px;
+}
