@@ -1,6 +1,6 @@
 # Library Project
 
-Software to the management the a library.
+Software for managing a museum library.
 
 
 Technologies used:
