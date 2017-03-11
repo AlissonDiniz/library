@@ -1,9 +1,0 @@
-<plugin name='i18n-enums' version='1.0.8' grailsVersion='2.0 &gt; *'>
-  <author>Søren Berg Glasius</author>
-  <authorEmail>soeren@glasius.dk</authorEmail>
-  <title>I18nEnums Grails Plugin</title>
-  <description>Adds an enumeration usable on Enums to easy add and implement the MessageSourceResolvable interface</description>
-  <documentation>http://sbglasius.github.io/I18nEnumsGrailsPlugin/</documentation>
-  <type>I18nEnumsGrailsPlugin</type>
-  <resources />
-</plugin>
